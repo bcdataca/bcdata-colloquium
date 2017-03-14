@@ -6,9 +6,46 @@
     <description>Recent content on bcdata colloquium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2017 bcdata.ca -- All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 01 Feb 2017 15:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017 bcdata.ca -- All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 01 Mar 2017 15:00:00 +0000</lastBuildDate>
     <atom:link href="http://bcdata.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Promising Future of Mathematics in Industry</title>
+      <link>http://bcdata.ca/post/20170301-donaldson/</link>
+      <pubDate>Wed, 01 Mar 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://bcdata.ca/post/20170301-donaldson/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Roger Donaldson (Midvale Applied Mathematics, UBC Math)&lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; &lt;a href=&#34;https://goo.gl/maps/MZ8RgS3k9m52&#34;&gt;Michael Smith Laboratories&lt;/a&gt; MSL 101, 3pm &amp;ndash; 4pm.&lt;/p&gt;
+
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+
+&lt;p&gt;
+The diversity of mathematics and roles of mathematicians in industry has
+expanded greatly over the last decade.  The first part of this talk is a survey
+of work that I have done as an applied mathematician working in industry.
+Areas include modeling groundwater flow for soil remediation, image editing,
+content-based image search, and machine learning for searching large satellite
+images.
+&lt;/p&gt;
+&lt;p&gt;
+The second part of this talk will focus on a particular use
+of mathematics in indexing high dimensional floating-point vectors using a
+search engine intended for text.  The result is a database search method that
+can combine &#34;fuzzy&#34; data, such as image textures or audio recordings, with
+text-based data such as document titles or descriptive keywords in an
+infrastructure easy for a software engineer to build and maintain.
+&lt;/p&gt;
+&lt;p&gt;
+The ultimate purpose of this talk is to highlight areas of mathematics of
+particular use to my work in industry, and hence of particular interest to
+future industrial practitioners.
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A risk-based platform for accident prevention strategies</title>
@@ -16,12 +53,17 @@
       <pubDate>Wed, 01 Feb 2017 15:00:00 +0000</pubDate>
       
       <guid>http://bcdata.ca/post/20170201-kim-coleman/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Speakers:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/soyeankim&#34;&gt;Soyean Kim&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/jeff-coleman-0b577926&#34;&gt;Jeff Coleman&lt;/a&gt; of &lt;a href=&#34;http://www.safetyauthority.ca/&#34;&gt;BC Safety Authority&lt;/a&gt;.
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Speakers:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/soyeankim&#34;&gt;Soyean Kim&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/jeff-coleman-0b577926&#34;&gt;Jeff Coleman&lt;/a&gt; of &lt;a href=&#34;http://www.safetyauthority.ca/&#34;&gt;BC Safety Authority&lt;/a&gt;.
 &lt;strong&gt;Location:&lt;/strong&gt; &lt;a href=&#34;https://goo.gl/maps/weMH9h5SmPT2&#34;&gt;Earth Sciences Building&lt;/a&gt; ESB 5104, 3pm &amp;ndash; 4pm.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://bcdata.ca/img/bc-safety-authority.png&#34; alt=&#34;BC Safety Authority logo&#34; height=&#34;30&#34; width=&#34;&#34; align=&#34;right&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://bcdata.ca/img/bc-safety-authority.png&#34; alt=&#34;BC Safety Authority logo&#34;
+align=&#34;center&#34; style=&#34;max-width:300px;&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; BC Safety Authority’s accident prevention strategy follows a risk based platform, called “bow tie” for ongoing management and prevention of major incidents. The bow tie method draws on the direct experience of safety management team and the data collected from various safety oversight programs in order to identify hazards and to properly incorporate critical controls into management systems. In addition, it raises awareness and improves understanding and risk knowledge of the potential major incidents and the reliance on critical controls that prevent those accidents from occurring. Opportunities exist for greater connectivity among various databases to maximize the risk knowledge, especially the pre incident data based on inspections and post incident data.&lt;/p&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+
+&lt;p&gt;BC Safety Authority’s accident prevention strategy follows a risk based platform, called “bow tie” for ongoing management and prevention of major incidents. The bow tie method draws on the direct experience of safety management team and the data collected from various safety oversight programs in order to identify hazards and to properly incorporate critical controls into management systems. In addition, it raises awareness and improves understanding and risk knowledge of the potential major incidents and the reliance on critical controls that prevent those accidents from occurring. Opportunities exist for greater connectivity among various databases to maximize the risk knowledge, especially the pre incident data based on inspections and post incident data.&lt;/p&gt;
 </description>
     </item>
     
@@ -39,39 +81,97 @@
 
 &lt;p&gt;Below is a table with the schedule for the  BCData Colloquium. Note that titles and abstracts in the bottom-most table correspond to the first table via &amp;ldquo;Talk Number&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;|Talk Number | Date      | Location | Speaker                     | Affiliation         |
-|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;|&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;&amp;mdash;-|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;|
-| 1          | Wed 1 Feb | ESB 5104 | Soyean Kim and Jeff Coleman | BC Safety Authority |&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Talk Number&lt;/th&gt;
-&lt;th&gt;Title&lt;/th&gt;
-&lt;th&gt;Abstract&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;A risk-based platform for accident prevention strategies&lt;/td&gt;
-&lt;td&gt;BC Safety Authority’s accident prevention strategy follows a risk based platform, called “bow tie” for ongoing management and prevention of major incidents. The bow tie method draws on the direct experience of safety management team and the data collected from various safety oversight programs in order to identify hazards and to properly incorporate critical controls into management systems. In addition, it raises awareness and improves understanding and risk knowledge of the potential major incidents and the reliance on critical controls that prevent those accidents from occurring.  Opportunities exist for greater connectivity among various databases to maximize the risk knowledge, especially the pre incident data based on inspections and post incident data.&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+&lt;table style=&#34;width:120%; align:center&#34;&gt;
+  &lt;tr&gt;
+    &lt;th style=&#34;text-align:left&#34;&gt;
+      #
+    &lt;/th&gt;
+    &lt;th style=&#34;text-align:left&#34;&gt;
+      Date
+    &lt;/th&gt;
+    &lt;th style=&#34;text-align:left&#34;&gt;
+      Location
+    &lt;/th&gt;
+    &lt;th style=&#34;text-align:left&#34;&gt;
+      Speaker
+    &lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      1
+    &lt;/td&gt;
+    &lt;td&gt;
+      Wed 1 Feb 15:00
+    &lt;/td&gt;
+    &lt;td&gt;
+      ESB 5104
+    &lt;/td&gt;
+    &lt;td style=&#34;padding:15px&#34;&gt;
+      Soyean Kim and Jeff Coleman &lt;br /&gt; (BC Safety Authority)
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      2
+    &lt;/td&gt;
+    &lt;td&gt;
+      Wed 1 Mar 15:00
+    &lt;/td&gt;
+    &lt;td&gt;
+      MSL 101
+    &lt;/td&gt;
+    &lt;td style=&#34;padding:15px&#34;&gt;
+      Roger Donaldson &lt;br /&gt;(Midvale Applied Mathematics,&lt;br /&gt;UBC Mathematics)
+    &lt;/td&gt;
+  &lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;organizers-and-sponsors&#34;&gt;Organizers and sponsors&lt;/h2&gt;
+&lt;h2 id=&#34;talk-details&#34;&gt;Talk Details&lt;/h2&gt;
 
-&lt;p&gt;Organizers include (but are not limited to): the Institute of Applied Mathematics; PIMS; the Mathematics of Information group at UBC.&lt;/p&gt;
+&lt;h3 id=&#34;a-risk-based-platform-for-accident-prevention-strategies&#34;&gt;A risk-based platform for accident prevention strategies&lt;/h3&gt;
 
-&lt;p&gt;This series is co-sponsored by &lt;a href=&#34;http://www.canssi.ca&#34;&gt;CANSSI&lt;/a&gt;, the &lt;a href=&#34;https://dsi.ubc.ca&#34;&gt;Data Sciences Institute&lt;/a&gt;, the &lt;a href=&#34;http://www.iam.ubc.ca&#34;&gt;Institute of Applied Mathematics&lt;/a&gt; and &lt;a href=&#34;https://www.pims.math.ca/&#34;&gt;PIMS&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;speakers-jeff-coleman-soyean-kim&#34;&gt;Speakers: Jeff Coleman, Soyean Kim&lt;/h4&gt;
+
+&lt;p&gt;BC Safety Authority’s accident prevention strategy follows a risk based platform, called “bow tie” for ongoing management and prevention of major incidents. The bow tie method draws on the direct experience of safety management team and the data collected from various safety oversight programs in order to identify hazards and to properly incorporate critical controls into management systems. In addition, it raises awareness and improves understanding and risk knowledge of the potential major incidents and the reliance on critical controls that prevent those accidents from occurring.  Opportunities exist for greater connectivity among various databases to maximize the risk knowledge, especially the pre incident data based on inspections and post incident data.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;hr /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-promising-future-of-mathematics-in-industry&#34;&gt;The Promising Future of Mathematics in Industry&lt;/h3&gt;
+
+&lt;h4 id=&#34;speaker-roger-donaldson-ph-d&#34;&gt;Speaker: Roger Donaldson, Ph.D.&lt;/h4&gt;
+
+&lt;p&gt;
+The diversity of mathematics and roles of mathematicians in industry has
+expanded greatly over the last decade.  The first part of this talk is a survey
+of work that I have done as an applied mathematician working in industry.
+Areas include modeling groundwater flow for soil remediation, image editing,
+content-based image search, and machine learning for searching large satellite
+images.
+&lt;/p&gt;
+&lt;p&gt;
+The second part of this talk will focus on a particular use
+of mathematics in indexing high dimensional floating-point vectors using a
+search engine intended for text.  The result is a database search method that
+can combine &#34;fuzzy&#34; data, such as image textures or audio recordings, with
+text-based data such as document titles or descriptive keywords in an
+infrastructure easy for a software engineer to build and maintain.
+&lt;/p&gt;
+&lt;p&gt;
+The ultimate purpose of this talk is to highlight areas of mathematics of
+particular use to my work in industry, and hence of particular interest to
+future industrial practitioners.
+&lt;/p&gt;
+
+&lt;h2 id=&#34;organization-and-sponsorship&#34;&gt;Organization and sponsorship&lt;/h2&gt;
+
+&lt;p&gt;Organizers include the Institute of Applied
+Mathematics (UBC IAM) and the Pacific Institute for the Mathematical Sciences (PIMS).&lt;/p&gt;
+
+&lt;p&gt;This series is co-sponsored by &lt;a href=&#34;http://www.canssi.ca&#34;&gt;CANSSI&lt;/a&gt;,
+&lt;a href=&#34;https://dsi.ubc.ca&#34;&gt;UBC DSI&lt;/a&gt;, &lt;a href=&#34;http://www.iam.ubc.ca&#34;&gt;UBC IAM&lt;/a&gt; and &lt;a href=&#34;https://www.pims.math.ca/&#34;&gt;PIMS&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
