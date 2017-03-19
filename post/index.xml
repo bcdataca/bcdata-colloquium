@@ -7,8 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 bcdata.ca -- All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 01 Mar 2017 15:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 15:00:00 +0000</lastBuildDate>
     <atom:link href="http://bcdata.ca/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>High-dimensional statistical inference</title>
+      <link>http://bcdata.ca/post/20170405-lockhart/</link>
+      <pubDate>Wed, 05 Apr 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://bcdata.ca/post/20170405-lockhart/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Richard Lockhart (SFU)&lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; TBA, 3pm &amp;ndash; 4pm&lt;/p&gt;
+
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+
+&lt;p&gt;Abstract coming soon!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Promising Future of Mathematics in Industry</title>
@@ -123,6 +140,20 @@ align=&#34;center&#34; style=&#34;max-width:300px;&#34;&gt;&lt;/p&gt;
     &lt;td style=&#34;padding:15px&#34;&gt;
       Roger Donaldson &lt;br /&gt;(Midvale Applied Mathematics,&lt;br /&gt;UBC Mathematics)
     &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+      3
+    &lt;/td&gt;
+    &lt;td&gt;
+      Wed 5 Apr 15:00
+    &lt;/td&gt;
+    &lt;td&gt;
+      TBA
+    &lt;/td&gt;
+    &lt;td style=&#34;padding:15px&#34;&gt;
+      Richard Lockhart &lt;br /&gt;(SFU)
+    &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
 
@@ -165,13 +196,37 @@ particular use to my work in industry, and hence of particular interest to
 future industrial practitioners.
 &lt;/p&gt;
 
+&lt;h3 id=&#34;high-dimensional-statistical-inference&#34;&gt;High dimensional statistical inference&lt;/h3&gt;
+
+&lt;h4 id=&#34;speaker-richard-lockhart&#34;&gt;Speaker: Richard Lockhart&lt;/h4&gt;
+
+&lt;p&gt;Abstract coming soon!&lt;/p&gt;
+
 &lt;h2 id=&#34;organization-and-sponsorship&#34;&gt;Organization and sponsorship&lt;/h2&gt;
 
 &lt;p&gt;Organizers include the Institute of Applied
 Mathematics (UBC IAM) and the Pacific Institute for the Mathematical Sciences (PIMS).&lt;/p&gt;
 
 &lt;p&gt;This series is co-sponsored by &lt;a href=&#34;http://www.canssi.ca&#34;&gt;CANSSI&lt;/a&gt;,
-&lt;a href=&#34;https://dsi.ubc.ca&#34;&gt;UBC DSI&lt;/a&gt;, &lt;a href=&#34;http://www.iam.ubc.ca&#34;&gt;UBC IAM&lt;/a&gt; and &lt;a href=&#34;https://www.pims.math.ca/&#34;&gt;PIMS&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://dsi.ubc.ca&#34;&gt;UBC DSI&lt;/a&gt;, &lt;a href=&#34;http://www.iam.ubc.ca&#34;&gt;UBC IAM&lt;/a&gt; and
+&lt;a href=&#34;https://www.pims.math.ca/&#34;&gt;PIMS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table style=&#34;width:100%&#34;&gt;
+&lt;tr style=&#34;text-align:center&#34;&gt;
+&lt;td&gt;
+&lt;img src=&#34;http://bcdata.ca/img/canssi_logo.png&#34; style=&#34;width:auto; max-height:100px;&#34;&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;img src=&#34;http://bcdata.ca/img/iam-logo.png&#34; style=&#34;width:auto; max-height:100px;&#34;&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;img src=&#34;http://bcdata.ca/img/pims-logo.png&#34; style=&#34;width:auto; max-height:100px;&#34;&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://bcdata.ca/img/ubc-dsi-logo.png&#34; style=&#34;width:auto; max-height:100px; align:right;&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 </description>
     </item>
     
