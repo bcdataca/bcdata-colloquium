@@ -18,12 +18,19 @@
       <guid>http://bcdata.ca/post/20170405-lockhart/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Richard Lockhart (SFU)&lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; TBA, 3pm &amp;ndash; 4pm&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; &lt;a href=&#34;http://people.stat.sfu.ca/~lockhart/&#34;&gt;Richard Lockhart&lt;/a&gt; (SFU)&lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; &lt;a href=&#34;https://goo.gl/maps/KAebF92kpEA2&#34;&gt;Earth Sciences Building&lt;/a&gt; ESB 5104, 3pm &amp;ndash; 4pm&lt;/p&gt;
 
 &lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
 
-&lt;p&gt;Abstract coming soon!&lt;/p&gt;
+&lt;p&gt;
+Penalized regression methods permit data analysts to fit models with more
+adjustable parameters than data points by imposing strong prior assumptions on
+the relationships between variables.  As a result classical tools of
+uncertainty assessment no longer work.  I have been involved in one approach to
+uncertainty assessment for problems of this sort. I will try to summarize the
+issues and contrast the current approaches.
+&lt;/p&gt;
 </description>
     </item>
     
