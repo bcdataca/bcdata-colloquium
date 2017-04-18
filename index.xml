@@ -11,7 +11,7 @@
     <atom:link href="http://bcdata.ca/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Luke Bornn (SFU)</title>
+      <title>Possession Sketches: Mapping NBA Strategies</title>
       <link>http://bcdata.ca/post/20170501-bornn/</link>
       <pubDate>Mon, 01 May 2017 15:00:00 +0000</pubDate>
       
@@ -23,7 +23,22 @@
 
 &lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
 
-&lt;p&gt;Check back soon for full details.&lt;/p&gt;
+&lt;p&gt;We present Possession Sketches, a new machine learning method for organizing
+and exploring a database of basketball player-tracks. Our method organizes
+basketball possessions by offensive structure. We first develop a model for
+populating a dictionary of short, repeated, and spatially registered
+actions. Each action corresponds to an interpretable type of player
+movement. We examine statistical patterns in these actions, and show how they
+can be used to describe individual player behavior. Leveraging this vocabulary
+of actions, we develop a hierarchical model that describes interactions between
+players. Our approach draws on the topic-modeling literature, extending Latent
+Dirichlet Allocation (LDA) through a novel representation of player movement
+data which uses techniques common in animation and video game design. We show
+that our model is able to group together possessions with similar offensive
+structure, allowing for efficient search and exploration of the entire database
+of player-tracking data. We show that our model finds repeated offensive
+structure in teams (e.g. strategy), providing a much more sophisticated, yet
+interpretable lens into basketball player-tracking data.&lt;/p&gt;
 </description>
     </item>
     
