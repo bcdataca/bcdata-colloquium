@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bcdata colloquium 17</title>
+    <link>http://bcdata.ca/2017/</link>
+    <description>Recent content on bcdata colloquium 17</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata.ca -- All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 01 May 2017 15:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://bcdata.ca/2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Possession Sketches: Mapping NBA Strategies</title>
+      <link>http://bcdata.ca/2017/post/20170501-bornn/</link>
+      <pubDate>Mon, 01 May 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://bcdata.ca/2017/post/20170501-bornn/</guid>
+      <description>Speaker: Luke Bornn (SFU)
+Location: Earth Sciences Building ESB 2012, 3pm &amp;ndash; 4pm.
+Abstract We present Possession Sketches, a new machine learning method for organizing and exploring a database of basketball player-tracks. Our method organizes basketball possessions by offensive structure. We first develop a model for populating a dictionary of short, repeated, and spatially registered actions. Each action corresponds to an interpretable type of player movement. We examine statistical patterns in these actions, and show how they can be used to describe individual player behavior.</description>
+    </item>
+    
+    <item>
+      <title>[cancelled] High-dimensional statistical inference</title>
+      <link>http://bcdata.ca/2017/post/20170405-lockhart/</link>
+      <pubDate>Wed, 05 Apr 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://bcdata.ca/2017/post/20170405-lockhart/</guid>
+      <description>Speaker: Richard Lockhart (SFU)
+Location: Earth Sciences Building ESB 5104, 3pm &amp;ndash; 4pm
+Cancelled Unfortunately, we have had to postpone this talk until a later date. We apologize for any inconvenience this may cause.
+Abstract  Penalized regression methods permit data analysts to fit models with more adjustable parameters than data points by imposing strong prior assumptions on the relationships between variables. As a result classical tools of uncertainty assessment no longer work.</description>
+    </item>
+    
+    <item>
+      <title>The Promising Future of Mathematics in Industry</title>
+      <link>http://bcdata.ca/2017/post/20170301-donaldson/</link>
+      <pubDate>Wed, 01 Mar 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://bcdata.ca/2017/post/20170301-donaldson/</guid>
+      <description>Speaker: Roger Donaldson (Midvale Applied Mathematics, UBC Math)
+Location: Michael Smith Laboratories MSL 101, 3pm &amp;ndash; 4pm.
+Abstract  The diversity of mathematics and roles of mathematicians in industry has expanded greatly over the last decade. The first part of this talk is a survey of work that I have done as an applied mathematician working in industry. Areas include modeling groundwater flow for soil remediation, image editing, content-based image search, and machine learning for searching large satellite images.</description>
+    </item>
+    
+    <item>
+      <title>A risk-based platform for accident prevention strategies</title>
+      <link>http://bcdata.ca/2017/post/20170201-kim-coleman/</link>
+      <pubDate>Wed, 01 Feb 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://bcdata.ca/2017/post/20170201-kim-coleman/</guid>
+      <description>Speakers: Soyean Kim and Jeff Coleman of BC Safety Authority. Location: Earth Sciences Building ESB 5104, 3pm &amp;ndash; 4pm.
+Abstract BC Safety Authority’s accident prevention strategy follows a risk based platform, called “bow tie” for ongoing management and prevention of major incidents. The bow tie method draws on the direct experience of safety management team and the data collected from various safety oversight programs in order to identify hazards and to properly incorporate critical controls into management systems.</description>
+    </item>
+    
+    <item>
+      <title>bcdata colloquium introduction</title>
+      <link>http://bcdata.ca/2017/post/20170129-introduction/</link>
+      <pubDate>Sun, 29 Jan 2017 23:42:55 -0800</pubDate>
+      
+      <guid>http://bcdata.ca/2017/post/20170129-introduction/</guid>
+      <description>2017 bcdata colloquium Schedule Below is a table with the schedule for the BCData Colloquium. Note that titles and abstracts in the bottom-most table correspond to the first table via &amp;ldquo;Talk Number&amp;rdquo;.
+ #  Date  Location  Speaker     1   Wed 1 Feb 15:00   ESB 5104  Soyean Kim and Jeff Coleman (BC Safety Authority)     2   Wed 1 Mar 15:00   MSL 101  Roger Donaldson (Midvale Applied Mathematics,</description>
+    </item>
+    
+  </channel>
+</rss>
