@@ -1,8 +1,8 @@
-if [[ $(git status -s) ]]
-then
-    echo "The working directory is dirty. Please commit any pending changes."
-    exit 1;
-fi
+# if [[ $(git status -s) ]]
+# then
+#     echo "The working directory is dirty. Please commit any pending changes."
+#     exit 1;
+# fi
 
 # extended regular expressions like !(.git) to remove all but .git files. 
 # shopt -s extglob
