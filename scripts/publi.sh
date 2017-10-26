@@ -22,3 +22,14 @@ find .. -name "bcdata-src*" -print | while read f; do
 	# move that site from public/2017 to $DIR/2017
 	find ./public -name "20*" -maxdepth 1 | xargs -I '{}' mv {} $DIR
 done
+
+
+read -erp "Push gh-pages to origin? (y/n): " doPushToRemote
+
+if [[ "$doPushToRemote" == "y" ]]
+then
+    echo "Pushing to remote..."
+    read -erp "Commit Message: " commitMessage
+    echo `pwd`
+fi
+
