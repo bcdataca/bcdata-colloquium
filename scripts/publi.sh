@@ -1,16 +1,15 @@
-
-function checkGitStatus {
-    cd $1 && if [[ $(git status -s) ]]
-    then
-	echo "The working directory is dirty. Please commit any pending changes."
-	exit 1;
-    fi
-}
+if [[ $(git status -s) ]]
+then
+    echo "The working directory is dirty. Please commit any pending changes."
+    exit 1;
+fi
 
 # extended regular expressions like !(.git) to remove all but .git files. 
-shopt -s extglob
+# shopt -s extglob
+
 # remove old site data
 find . -name "20*" -maxdepth 1 -print0 | xargs -0 rm -rd
+
 # get current directory (e.g. .../bcdata-deployed)
 DIR=$(pwd)
 
