@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://bcdata.ca/2018/post/20171115-haber/</loc>
+    <lastmod>2017-11-15T18:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bcdata.ca/2018/post/20171001-introduction/</loc>
+    <lastmod>2017-10-01T00:08:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bcdata.ca/2018/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bcdata.ca/2018/post/</loc>
+    <lastmod>2017-11-15T18:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bcdata.ca/2018/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bcdata.ca/2018/</loc>
+    <lastmod>2017-11-15T18:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

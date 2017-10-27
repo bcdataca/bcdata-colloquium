@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on bcdata colloquium 18</title>
+    <link>http://bcdata.ca/2018/post/</link>
+    <description>Recent content in Posts on bcdata colloquium 18</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 bcdata.ca -- All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 15 Nov 2017 18:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://bcdata.ca/2018/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Neural Networks Meet Partial Differential Equations</title>
+      <link>http://bcdata.ca/2018/post/20171115-haber/</link>
+      <pubDate>Wed, 15 Nov 2017 18:00:00 -0700</pubDate>
+      
+      <guid>http://bcdata.ca/2018/post/20171115-haber/</guid>
+      <description>Speaker: Eldad Haber (UBC)
+Location: Mobify Vancouver 725 Granville St #420
+Talk: 18:00 &amp;ndash; 19:00
+Reception: 19:00 &amp;ndash; 20:30
+Details: Visit the event listing on the PIMS website to register or obtain more information.
+Description In this talk we will explore deep neural networks from a dynamical systems point of view. We will show that the learning problem can be cast as a path planning problem with PDE constraint. This opens the door to conventional Computational techniques that can speed up the learning process and avoid some of the local minima.</description>
+    </item>
+    
+    <item>
+      <title>bcdata colloquium introduction</title>
+      <link>http://bcdata.ca/2018/post/20171001-introduction/</link>
+      <pubDate>Sun, 01 Oct 2017 00:08:00 -0700</pubDate>
+      
+      <guid>http://bcdata.ca/2018/post/20171001-introduction/</guid>
+      <description> 2017 bcdata colloquium Organization and sponsorship Organizers include the Institute of Applied Mathematics (UBC IAM) and the Pacific Institute for the Mathematical Sciences (PIMS).
+This series is co-sponsored by CANSSI, UBC DSI, UBC IAM and PIMS.
+         </description>
+    </item>
+    
+  </channel>
+</rss>
