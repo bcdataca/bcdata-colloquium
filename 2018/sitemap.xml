@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://bcdata.ca/2018/post/20180207-prox/</loc>
+    <lastmod>2018-02-07T18:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bcdata.ca/2018/post/20171115-haber/</loc>
     <lastmod>2017-11-15T18:00:00-07:00</lastmod>
   </url>
@@ -19,7 +24,7 @@
   
   <url>
     <loc>http://bcdata.ca/2018/post/</loc>
-    <lastmod>2017-11-15T18:00:00-07:00</lastmod>
+    <lastmod>2018-02-07T18:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,7 +35,7 @@
   
   <url>
     <loc>http://bcdata.ca/2018/</loc>
-    <lastmod>2017-11-15T18:00:00-07:00</lastmod>
+    <lastmod>2018-02-07T18:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   

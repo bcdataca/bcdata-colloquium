@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 bcdata.ca -- All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 15 Nov 2017 18:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2018 18:00:00 -0800</lastBuildDate>
     
 	<atom:link href="http://bcdata.ca/2018/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Combating Crime with Predictive Policing: Stopping a Crime Wave in its Tracks</title>
+      <link>http://bcdata.ca/2018/post/20180207-prox/</link>
+      <pubDate>Wed, 07 Feb 2018 18:00:00 -0800</pubDate>
+      
+      <guid>http://bcdata.ca/2018/post/20180207-prox/</guid>
+      <description>Speaker: Special Constable Ryan Prox (Vancouver Police Department) Location: To be announced Talk: 18:00 &amp;ndash; 19:00
+Reception: 19:00 &amp;ndash; 20:30
+Details: Visit the event listing on the IAM website to obtain more information.
+Description The Vancouver Police Department is known worldwide for its pioneering work in the field of intelligence-led policing, and is the first police service in Canada to deploy a machine-learning predictive system directly on police mobile computers.</description>
+    </item>
     
     <item>
       <title>Deep Neural Networks Meet Partial Differential Equations</title>
