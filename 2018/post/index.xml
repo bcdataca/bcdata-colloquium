@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 bcdata.ca -- All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Feb 2018 18:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2018 18:00:00 -0800</lastBuildDate>
     
 	<atom:link href="http://bcdata.ca/2018/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Big Data in Personalized Medicine</title>
+      <link>http://bcdata.ca/2018/post/20180228-ng/</link>
+      <pubDate>Wed, 28 Feb 2018 18:00:00 -0800</pubDate>
+      
+      <guid>http://bcdata.ca/2018/post/20180228-ng/</guid>
+      <description>Speaker: Dr. Raymond Ng (UBC Computer Science) Location: Mobify Head Office (725 Granville Street, Suite #420) Talk: 18:00 &amp;ndash; 19:00
+Reception: 19:00 &amp;ndash; 20:30
+Description Personalized medicine has been hailed as one of the main frontiers for medical research in this century. In the first half of the talk, we will give an overview on our projects that use complex and big datta sets for biomarker discovery. In the second half of the talk, we will describe some of the challenges involved in biomarker discovery.</description>
+    </item>
     
     <item>
       <title>Combating Crime with Predictive Policing: Stopping a Crime Wave in its Tracks</title>
