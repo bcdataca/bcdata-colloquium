@@ -6,10 +6,24 @@
     <description>Recent content on bcdata colloquium 18</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Feb 2018 18:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Mar 2018 18:30:00 -0700</lastBuildDate>
     
 	<atom:link href="http://bcdata.ca/2018/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modern Software Tooling for Data Science</title>
+      <link>http://bcdata.ca/2018/post/20180326-reid/</link>
+      <pubDate>Mon, 26 Mar 2018 18:30:00 -0700</pubDate>
+      
+      <guid>http://bcdata.ca/2018/post/20180326-reid/</guid>
+      <description>Speaker: Michael Reid (Amazon)
+Location: KPMG Vancouver 777 Dunsmuir St, 11th floor, Vancouver
+Talk: 18:30 &amp;ndash; 19:30
+Reception: 19:30 &amp;ndash; 21:00
+Registration: Link for registration
+Description As machine learning becomes more critical to businesses&amp;rsquo; core offerings, data scientists must adapt their tools and techniques to meet business demands. Industry data scientists can no longer run ad hoc Tensorflow or Spark jobs against local data sets; they must now handle cloud computing, high availability and disaster recovery, and real-time analysis.</description>
+    </item>
     
     <item>
       <title>Big Data in Personalized Medicine</title>
