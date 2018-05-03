@@ -6,10 +6,27 @@
     <description>Recent content in Posts on bcdata colloquium 18</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Mar 2018 18:30:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 17 May 2018 18:30:00 -0700</lastBuildDate>
     
 	<atom:link href="http://bcdata.ca/2018/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Three-part discussion series</title>
+      <link>http://bcdata.ca/2018/post/20180517-henrey/</link>
+      <pubDate>Thu, 17 May 2018 18:30:00 -0700</pubDate>
+      
+      <guid>http://bcdata.ca/2018/post/20180517-henrey/</guid>
+      <description>Speakers: Andrew Henrey (Finning Digital),
+Phat Tran (Technical Safety BC) and Dmitry Samosseiko (Sophos)
+Location: Technical Safety BC
+Suite 600 - 2899 East 12th Avenue, Vancouver
+Talk and reception: 18:00 &amp;ndash; 19:30
+Registration: Link for registration
+Description Redefining Cybersecurity with Data Science Dmitry Samosseiko
+Director of Global Threat Research at Sophos.
+The machine learning technology took the cybersecurity industry by storm a couple of years ago. Nowadays, nearly every cybersecurity product claims to contain some form of “artificial intelligence”.</description>
+    </item>
     
     <item>
       <title>Modern Software Tooling for Data Science</title>
